@@ -6,7 +6,7 @@ cover = "img/haha.png"
 description = "\"Support The Movement\" Our NFTs will be linked to direct action items for you to become a better machinist"
 +++
 
->"Support The Movement" Our NFTs will be linked to direct action items for you to become a better machinist
+>"Want to become a Machinist?" Our NFTs will be linked to direct action items for you to become a better machinist
 
 >
 >  **Credit Building School Podcast Season 2 01**
