@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-Title = "Simple Credit Building Blog"
+Title = "Become A Machinist"
 theme = "terminal"
 paginate = 5
 relativeUrls = true
@@ -64,7 +64,7 @@ relativeUrls = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Build Credit"
+    title = "Become A Machinist"
     subtitle = "The Right Way"
     keywords = ""
     copyright = ""
@@ -73,11 +73,11 @@ relativeUrls = true
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "creditbuildingschool.eth"
+      logoText = "ericmaxwell.eth"
       logoHomeLink = "/"
     # or
     #
-    # path = "/img/cbs.jpg
+    # path = "/img/hello.jpg
     # alt = "this is creditbuildingschool"
  
     [languages.en.menu]
@@ -86,10 +86,10 @@ relativeUrls = true
         name = "Home"
         url = "/"
       [[languages.en.menu.main]]
-        identifier = "about_us"
-        name = "Learn About Us"
+        identifier = "about_me"
+        name = "Learn About Me"
         url = "https://anchor.fm/creditbuildingschool"
       [[languages.en.menu.main]]
-        identifier = "Tweet Us"
-        name = "Tweet Us"
+        identifier = "Tweet Me"
+        name = "Tweet Me"
         url = "https://twitter.com/_creditbuilding"
