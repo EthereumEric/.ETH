@@ -2,12 +2,12 @@
 title = "Podcast available on Spotify, Google Play, and Apple Podcasts"
 date = "2022-01-29"
 author = "Eric"
-cover = "img/cbs.jpg"
-description = "\"New Releases\"NFTs that will help you repair your credit"
+cover = "img/hello.jpg"
+description = "\"New Releases\ "NFTs that will help you repair your credit"
 +++
 
-> "\"New Releases\"NFTs that will help you repair your credit"
-> For an excusive Credit Building School NFT Stay Tuned.
+> "\"New Releases\ "NFTs that will help you become a machinist"
+> For an excusive simply NFT Stay Tuned.
 
 
 
