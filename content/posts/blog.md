@@ -1,12 +1,12 @@
 +++
-title = "Lets Raise Those Credit Scores"
+title = "Lets Become Top Level Machinists"
 date = "2022-01-28"
 author = "Eric"
 cover = "img/haha.png"
-description = "\"Support The Movement\" Our NFTs will be linked to direct action items for you to build your credit and | or repair your credit"
+description = "\"Support The Movement\" Our NFTs will be linked to direct action items for you to become a better machinist"
 +++
 
->"Support The Movement" Our NFTs will be linked to direct action items for you to build your credit and | or repair your credit
+>"Support The Movement" Our NFTs will be linked to direct action items for you to become a better machinist
 
 >
 >  **Credit Building School Podcast Season 2 01**
