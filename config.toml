@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-Title = "Become A Machinist"
+Title = "Marketer Supreme"
 theme = "terminal"
 paginate = 5
 relativeUrls = true
@@ -58,14 +58,14 @@ relativeUrls = true
   # set Twitter handles for Twitter cards
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
-  creator = "_creditbuilding"
-  site = "twitter.com/_creditbuilding"
+  creator = "ericmaxwelleth"
+  site = "twitter.com/ericmaxwelleth"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Become A Machinist"
-    subtitle = "The Right Way"
+    title = "Marketer Supreme"
+    subtitle = "Super Affiliate"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -78,7 +78,7 @@ relativeUrls = true
     # or
     #
     # path = "/img/hello.jpg
-    # alt = "this is creditbuildingschool"
+    # alt = "this was created by ericmaxwell.eth"
  
     [languages.en.menu]
       [[languages.en.menu.main]]
@@ -88,8 +88,8 @@ relativeUrls = true
       [[languages.en.menu.main]]
         identifier = "about_me"
         name = "Learn About Me"
-        url = "https://anchor.fm/creditbuildingschool"
+        url = "https://anchor.fm/ericmaxwelleth"
       [[languages.en.menu.main]]
         identifier = "Tweet Me"
         name = "Tweet Me"
-        url = "https://twitter.com/_creditbuilding"
+        url = "https://twitter.com/ericmaxwelleth"
