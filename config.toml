@@ -86,15 +86,15 @@ isHTML = true
     # alt = "this was created by ericmaxwell.eth"
  
     [languages.en.menu]
-      [languages.en.menu.main]
+      [[languages.en.menu.main]]
         identifier = "home"
         name = "Home"
         url = "/"
-      [languages.en.menu.main]
+      [[languages.en.menu.main]]
         identifier = "about_me"
         name = "Learn About Me"
         url = "https://anchor.fm/ericmaxwelleth"
-      [languages.en.menu.main]
+      [[languages.en.menu.main]]
         identifier = "Tweet Me"
         name = "Tweet Me"
         url = "https://twitter.com/ericmaxwelleth"
