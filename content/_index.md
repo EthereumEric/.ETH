@@ -1,3 +1,5 @@
+outputs = ["Reveal"]
+
 +++
 weight = 10
 +++
