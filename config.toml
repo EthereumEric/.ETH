@@ -2,6 +2,7 @@ baseurl = "/"
 languageCode = "en-us"
 Title = "Marketer Supreme"
 theme = "terminal"
+theme = "reveal-hugo"
 paginate = 5
 relativeUrls = true
 
