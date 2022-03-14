@@ -54,6 +54,12 @@ relativeUrls = true
   # it's set to `true` by default
   # oneHeadingSize = false
 
+[reveal_hugo]
+theme = "moon"
+highlight_theme = "solarized-dark"
+slide_number = true
+transition = "zoom"
+
 [outputFormats.Reveal]
 baseName = "index"
 mediaType = "text/html"
