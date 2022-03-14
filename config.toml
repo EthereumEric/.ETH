@@ -2,7 +2,6 @@ baseurl = "/"
 languageCode = "en-us"
 Title = "Marketer Supreme"
 theme = "terminal"
-theme = "reveal-hugo"
 paginate = 5
 relativeUrls = true
 
@@ -54,17 +53,6 @@ relativeUrls = true
   # set all headings to their default size (depending on browser settings)
   # it's set to `true` by default
   # oneHeadingSize = false
-
-[reveal_hugo]
-theme = "moon"
-highlight_theme = "solarized-dark"
-slide_number = true
-transition = "zoom"
-
-[outputFormats.Reveal]
-baseName = "index"
-mediaType = "text/html"
-isHTML = true
 
 [params.twitter]
   # set Twitter handles for Twitter cards
