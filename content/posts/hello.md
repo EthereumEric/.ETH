@@ -2,11 +2,11 @@
 title = "My 1st Podcast Episode Has Been Published"
 date = "2022-01-28"
 author = "Eric"
-cover = "img/lion.jpg"
-description = "\"Subscribe to the podcast\" My show will keep you all up to date on all the things I buy, utilize, and leverage as a marketing professional"
+cover = "img/image1.gif"
+description = "\"Subscribe to the podcast\" My show will keep you up to date on all things Crypto, NFT, and blockchain"
 +++
 
->"Subscribe to the podcast?" My show will keep you all up to date on all the things I buy, utilize, and leverage as a marketing professional. 
+>"Subscribe to the podcast?" My show will keep you up to date on all things Crypto, NFT, and blockchain. 
 
 
 
