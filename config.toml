@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-Title = "Marketer Supreme"
+Title = "Super Affiliate"
 theme = "terminal"
 paginate = 5
 relativeUrls = true
@@ -64,7 +64,7 @@ relativeUrls = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Marketer Supreme"
+    title = "Super Affiliate"
     subtitle = "Super Affiliate"
     keywords = ""
     copyright = ""
