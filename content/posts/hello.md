@@ -10,7 +10,9 @@ description = "\"Subscribe to the podcast\" My show will keep you up to date on 
 
 
 
-https://user-images.githubusercontent.com/98412446/156945317-6dc6bafb-7877-48ed-9e9e-ef28a36c30ea.MP4
+I love NFT, Crypto, and blockchain in general and I am always educating myself on these topics. If you have found me on twitter or tik tok thanks for checking out my content! If you found me on spotify you are a special guest. Spotify users get to experience my podcast and engage with me directly. 
+
+Hopefully, you subscribe to my podcast or my tik tok as thats where the bulk of my content will be posted. I generally do not respond to DMs, or check comments so, if you'd like to engage with me directly do so on my podcast.
 
 
 
