@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-Title = "Super Affiliate"
+Title = "NFT creator"
 theme = "terminal"
 paginate = 5
 relativeUrls = true
@@ -64,8 +64,8 @@ relativeUrls = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Super Affiliate"
-    subtitle = "Super Affiliate"
+    title = "NFT Creator"
+    subtitle = "NFT Creator"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
