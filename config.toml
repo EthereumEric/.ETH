@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-Title = "NFT creator"
+Title = "NFT Creator"
 theme = "terminal"
 paginate = 5
 relativeUrls = true
