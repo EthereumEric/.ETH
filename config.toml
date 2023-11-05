@@ -1,6 +1,6 @@
 baseurl = "/"
 languageCode = "en-us"
-Title = "NFT Creator"
+Title = "Eric Maxwell"
 theme = "terminal"
 paginate = 5
 relativeUrls = true
@@ -10,7 +10,7 @@ relativeUrls = true
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "blue"
+  themeColor = "red"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 1
@@ -64,8 +64,8 @@ relativeUrls = true
 [languages]
   [languages.en]
     languageName = "English"
-    title = "NFT Creator"
-    subtitle = "NFT Creator"
+    title = "Eric Maxwell"
+    subtitle = "Eric Maxwell"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -88,7 +88,7 @@ relativeUrls = true
       [[languages.en.menu.main]]
         identifier = "about_me"
         name = "Learn About Me"
-        url = "https://anchor.fm/ericmaxwelleth"
+        url = "https://opensea.io/collection/ericmaxwelleth"
       [[languages.en.menu.main]]
         identifier = "Tweet Me"
         name = "Tweet Me"
